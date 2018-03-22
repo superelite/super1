@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1,AL: EXP Shkenc
+httphost://$http-raw=https://live.albanian.tv/exp-shkence$http-refferer=https://albanian.tv/video/exp-shkence-live/

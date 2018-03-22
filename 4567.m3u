@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="", SuperSport Kosova 1
+httphost://$http-raw=https://live.albanian.tv/ss-kosova-1$http-refferer=https://albanian.tv/video/super-sport-kosova-1/
+

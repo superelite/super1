@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="", Super Sport 2
+httphost://$http-raw=https://live.albanian.tv/ss-2$http-refferer=https://albanian.tv/video/supersport-2-live/

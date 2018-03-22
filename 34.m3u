@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1, KLAN HD
+httphost://$http-raw=https://live.albanian.tv/klan$http-refferer=https://albanian.tv/video/tv-klan-live/

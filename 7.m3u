@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1,AL: Explorer Histori
+httphost://$http-raw=https://live.albanian.tv/exp-histori$http-refferer=https://albanian.tv/video/exp-histori-live/

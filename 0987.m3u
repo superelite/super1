@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,kosova ss2
+httphost://$http-raw=https://live.albanian.tv/ss-kosova-2$http-refferer=https://albanian.tv/video/super-sport-kosova-2/

@@ -1,0 +1,6 @@
+
+#EXTM3U
+#EXTINF:-1,AL: EXP Natyra
+
+httphost://$http-raw=https://live.albanian.tv/exp-natyra$http-refferer=https://albanian.tv/video/exp-natyre-live/
+

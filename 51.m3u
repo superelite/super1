@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="", Tring Sport 3
+httphost://$http-raw=https://live.albanian.tv/tring-sport-3$http-refferer=https://albanian.tv/video/tring-sport-3-live/

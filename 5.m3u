@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1,AL: Film Thriller
+httphost://$http-raw=https://live.albanian.tv/film-thriller$http-refferer=https://albanian.tv/video/film-thriller-live/

@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="", EuroFilm
+httphost://$http-raw=https://live.albanian.tv/digi-gold$http-refferer=https://albanian.tv/video/digi-gold-live/

@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1,AL: News 24
+httphost://$http-raw=https://live.albanian.tv/news-24$http-refferer=https://albanian.tv/video/news-24-albania-live-2/

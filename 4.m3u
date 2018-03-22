@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1,AL: Film Hits
+httphost://$http-raw=https://live.albanian.tv/film-h$http-refferer=https://albanian.tv/video/film-channel-hits-live/

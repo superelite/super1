@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="", Film Komedi
+httphost://$http-raw=https://live.albanian.tv/film-komedi$http-refferer=https://albanian.tv/video/film-komedi-live/

@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="", Film Aksion
+httphost://$http-raw=https://live.albanian.tv/film-aksion$http-refferer=https://albanian.tv/video/film-aksion-live/

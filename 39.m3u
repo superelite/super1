@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1,Top Channel
+httphost://$http-raw=https://live.albanian.tv/top-channel$http-refferer=https://albanian.tv/video/top-channel-live/
