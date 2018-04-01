@@ -2,3 +2,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="", EuroFilm
 httphost://$http-raw=https://live.albanian.tv/digi-gold$http-refferer=https://albanian.tv/video/digi-gold-live/
+#EXTINF:-1 top alb
+httphost://$http-raw=http://163.172.211.225:8000/live/topchannel/a5TZGucS8p/41.ts$http-refferer=http://localhost
