@@ -2,5 +2,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="", EuroFilm
 httphost://$http-raw=https://live.albanian.tv/digi-gold$http-refferer=https://albanian.tv/video/digi-gold-live/
-#EXTINF:-1,top
-xmtv://U3RyaW5nIGhvc3Q9Imh0dHA6Ly8xNjMuMTcyLjIxMS4yMjU6ODAwMC9saXZlL3RvcGNoYW5uZWwvYTVUWkd1Y1M4cC80MS50cyI7DQpTdHJpbmcgeG10dmhvc3QgPSBudWxsOw0KdHJ5ew0KCXhtdHZob3N0ID0gInhtdHY6Ly8iICsgVVJMRW5jb2Rlci5lbmNvZGUoQmFzZTY0LmVuY29kZVRvU3RyaW5nKGhvc3QuZ2V0Qnl0ZXMoKSwgQmFzZTY0Lk5PX1dSQVApLCJVVEYtOCIpOw0KfSAoRXhjZXB0aW9uIGUpew0KICAgIC8vIHRvZG86IGNhdGNoIGl0DQp9
+#EXTINF:-1,FIFTY 
+httphost://$http-raw=https://openload.co/embed/89_52TEl5jg/50_Hij1_3_2k18.mp4$http-refferer=http://www.filmaon.com/filma/fifty-shades-free/
