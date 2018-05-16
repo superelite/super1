@@ -4,3 +4,5 @@
 httphost://$http-raw=https://live.albanian.tv/digi-gold$http-refferer=https://albanian.tv/video/digi-gold-live/
 #EXTINF:-1,FIFTY 
 httphost://$http-raw=https://streamango.com/embed/feqoqorkkpefmldl/$http-refferer=http://www.filma24.tv/12-strong-2018/
+#EXTINF:-1 tvg-logo="", prov
+httphost://$http-raw=http://whostreams.net/embed/6rsx67u$http-refferer=http://wizhdsports.fi/watch/Vejle_vs_Fredericia_live_Football/stream45
